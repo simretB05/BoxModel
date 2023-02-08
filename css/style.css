@@ -1,12 +1,15 @@
 #hello {
   background-color: lightblue;
   padding: 10px;
+  border: 3px solid yellow;
 }
 #come {
   padding: 20px 20px 20px 20px;
   background-color: lightcoral;
+  border: 2px dashed yellow;
 }
 #world {
   background-color: lightgray;
-  padding: 30px 30px;
+  padding-left: 30px;
+  border: 2px solid yellow;
 }
